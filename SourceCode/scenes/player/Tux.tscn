@@ -314,6 +314,7 @@ blend_mode = 1
 collision_layer = 2
 script = ExtResource( 28 )
 fireball_scene = ExtResource( 37 )
+run_jump_height_in_tiles = 20.0
 invincible_star_time = 13.0
 damage_safe_time = 2.0
 
